@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="seibel_test"
+      id="bcbf6948-8ea0-4ce5-93a1-6a62ffbe59d6"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="seibel_test"
+      id="bcbf6948-8ea0-4ce5-93a1-6a62ffbe59d6"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

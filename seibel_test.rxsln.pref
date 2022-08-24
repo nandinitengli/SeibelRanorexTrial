@@ -1,0 +1,15 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{9B477AC4-1DB0-40FF-96D8-E9685615C1E5}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution seibel_test[seibel_test[]]]&#xD;&#xA;Solution seibel_test\seibel_test\seibel_test.rxtst&#xD;&#xA;Solution seibel_test" />
+  <StartupProject value="{9B477AC4-1DB0-40FF-96D8-E9685615C1E5}" />
+</Properties>

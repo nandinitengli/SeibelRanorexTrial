@@ -1,0 +1,14 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="seibel_test.rxtst" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="seibel_test.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="seibel_test.rxtmg" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>

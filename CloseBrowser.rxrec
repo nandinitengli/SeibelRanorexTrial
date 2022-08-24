@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="96a2a421-9824-4b1c-b0bd-0e175d10658d"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="seibel_test">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="07be27a4-fd3c-4ac8-83c4-3a50f21fcd39">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="3131c533-2d52-4ca5-ac65-40ef972f593d"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='msedge']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="0ae93211-5c00-4b41-af86-15628603432f"
+	name="seibel_testRepository"
+	relativepath="seibel_testRepository.rxrep">
+		<codegen
+		classname="seibel_testRepository"
+		namespace="seibel_test">
+		</codegen>
+		<rootfolder
+		id="a951339f-6ae4-49e3-b6ae-92220619375e"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
